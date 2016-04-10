@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: O mně
 permalink: /about/
 ---
 
-Some information about you!
+Jsem mimojiné studentem informační vědy, díky které jsem měl tu milou možnost seznámit se s GitHubem a založit tuto stránku.
 
-### More Information
+### Další info
 
-A place to include any other types of information that you'd like to include about yourself.
+Časem přidám možná více příspěvků - záleží samosebou na tom, co se po nás v kurzu NAMI bude chtít...
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[marektardon.cz@gmail.com](mailto:marektardon.cz@gmail.com)
