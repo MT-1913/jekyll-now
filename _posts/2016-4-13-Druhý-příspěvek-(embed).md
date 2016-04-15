@@ -13,6 +13,8 @@ Neměl jsem na mysli žádné konkrétní okruhy, ale tajně jsem myslel na to, 
 
 V podstatě se dá říct, že se mělo jednat o jakousi obdobu projektu Kmeny říznutou naším milým KISKem. Nevíte, co jsou Kmeny? Níže přiložené video vám to poví.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/baAZtif89ZI" frameborder="0" allowfullscreen></iframe>
+
 <div class="dokument">
         <h4>YouTube: O projektu Kmeny</h4>
         <object type="application/x-shockwave-flash" style="width:650px; height:450px;" data="https://youtu.be/baAZtif89ZI">
