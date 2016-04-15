@@ -11,15 +11,8 @@ Chtěl jsem se věnovat vlivu informačních technologií, potažmo nějaké kon
 
 Neměl jsem na mysli žádné konkrétní okruhy, ale tajně jsem myslel na to, že bych zabrousil především do míst, kde to znám z volného času nejlépe - tedy mezi aktivní fotbalové fanoušky (neboli - jinak řečeno - ultras).
 
-V podstatě se dá říct, že se mělo jednat o jakousi obdobu projektu Kmeny říznutou naším milým KISKem. Nevíte, co jsou Kmeny? Níže přiložené video vám to poví.
+V podstatě se dá říct, že se mělo jednat o jakousi obdobu projektu Kmeny říznutou naším milým KISKem. Nevíte, co jsou Kmeny a čím se zabývaly? Níže přiložené video vám to poví.
+
+<h4>YouTube: O projektu Kmeny</h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/baAZtif89ZI" frameborder="0" allowfullscreen></iframe>
-
-<div class="dokument">
-        <h4>YouTube: O projektu Kmeny</h4>
-        <object type="application/x-shockwave-flash" style="width:650px; height:450px;" data="https://youtu.be/baAZtif89ZI">
-            <param name="movie" value="https://youtu.be/baAZtif89ZI">
-            <param name="allowFullScreen" value="true" />
-            <param name="allowscriptaccess" value="always" />
-        </object>
-    </div>
