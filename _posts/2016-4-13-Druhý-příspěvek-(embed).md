@@ -15,8 +15,8 @@ V podstatě se dá říct, že se mělo jednat o jakousi obdobu projektu Kmeny �
 
 <div class="dokument">
         <h4>YouTube: O projektu Kmeny</h4>
-        <object type="application/x-shockwave-flash" style="width:650px; height:450px;" data="https://www.youtube.com/watch?v=baAZtif89ZI">
-            <param name="movie" value="https://www.youtube.com/watch?v=baAZtif89ZI">
+        <object type="application/x-shockwave-flash" style="width:650px; height:450px;" data="https://youtu.be/baAZtif89ZI">
+            <param name="movie" value="https://youtu.be/baAZtif89ZI">
             <param name="allowFullScreen" value="true" />
             <param name="allowscriptaccess" value="always" />
         </object>
